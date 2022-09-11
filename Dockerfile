@@ -8,6 +8,6 @@ RUN npm i -g @ionic/cli
 
 RUN npm i
 
-CMD ionic serve -l
+CMD ionic serve -l --external
 
-EXPOSE 8100 8200
+EXPOSE 8100 8200 53703 35729 

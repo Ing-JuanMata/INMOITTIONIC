@@ -1,5 +1,8 @@
 # FRONTED PARA EL PROYECTO INMOITT
 
+## PRIMORDIAL
+Ejecutar el modelo de la base de datos que viene en el proyecto usando alguna herramienta como "Mysql WorkBench"
+
 ## Pasos a seguir para probar este codigo para produccion
 `docker compose build --no-cache`
 `docker compose up --build`
